@@ -1,3 +1,4 @@
 Face Recognition Using LBPH 
+Library Use: Opencv, numpy, PIL
 
-Read Howtorun.txt
+Please Read Howtorun.txt
